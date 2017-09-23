@@ -1,0 +1,1 @@
+!function(i){if(i("#svg-happie-d")){var n="svg-happie-d";new Vivus(n,{duration:250,animationType:"sync",animTimingFunction:Vivus.EASE_OUT})}if(i("#svg-happie-quip")){var n="svg-happie-quip";new Vivus(n,{duration:250,animationType:"sync",animTimingFunction:Vivus.EASE_OUT})}happie,d}(jQuery);

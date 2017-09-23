@@ -1,0 +1,1 @@
+!function(t){t(function(){window.matchMedia("(min-width: 992px)").matches&&t(" .featured-project").each(function(){t(this).hoverdir()})}),t(".featured-project").find("img").each(function(e,r){var r=t(r),c=t(this).attr("src");r.parents(".featured-project").css("background-image","url("+c+")")})}(jQuery);

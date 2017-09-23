@@ -1,0 +1,1 @@
+!function(e){e(".careers-image-slider").slick({autoplay:!1,infinite:!1,slidesToShow:1,slidesToScroll:1,arrows:!0,dots:!1,prevArrow:e(".careers-image-slider-nav__prev"),nextArrow:e(".careers-image-slider-nav__next")}),e(".careers-image").find("img").each(function(r,a){var a=e(a),i=e(this).attr("src");a.parents(".careers-image").css("background-image","url("+i+")")})}(jQuery);

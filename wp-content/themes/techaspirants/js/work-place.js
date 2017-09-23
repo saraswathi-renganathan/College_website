@@ -1,0 +1,1 @@
+!function(r){r(".img-wrapper, .customer-comfort-section__image-wrapper").find("img").each(function(e,a){var a=r(a),c=r(this).attr("src");a.parents(".img-wrapper, .customer-comfort-section__image-wrapper").css("background-image","url("+c+")")})}(jQuery);

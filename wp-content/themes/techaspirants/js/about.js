@@ -1,0 +1,1 @@
+!function(i){i(".hm-definition__image").find("img").each(function(n,a){var a=i(a),e=i(this).attr("src");a.parents(".hm-definition__image").css("background-image","url("+e+")")})}(jQuery);

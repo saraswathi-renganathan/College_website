@@ -1,0 +1,1 @@
+/*$(document).ready(function(){function e(){$(".scroll-panel").hasClass("active")&&$(".scroll-panel.active").addClass("animate")}$(window).on("DOMMouseScroll mousewheel scroll wheel keydown keypress click",function(){e()})});*/

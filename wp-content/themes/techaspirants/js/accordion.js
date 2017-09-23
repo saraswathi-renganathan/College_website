@@ -1,0 +1,1 @@
+!function(n){n(".accordion .accordion-panel").first().css("display","block"),n(".accordion .accordion-link").first().addClass("is-open"),n(".accordion-link").on("click",function(o){o.preventDefault();var i=n(this).next();n(i).slideDown("fast"),n(".accordion-panel").not(i).slideUp("fast"),n(".accordion-link").removeClass("is-open"),n(this).addClass("is-open")})}(jQuery);

@@ -1,0 +1,1 @@
+!function(t){t(".what-it-does-content__img-wraper").find("img").each(function(n,r){var r=t(r),a=t(this).attr("src");r.parents(".what-it-does-content__img-wraper").css("background-image","url("+a+")")})}(jQuery);

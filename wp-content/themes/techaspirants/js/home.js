@@ -1,0 +1,1 @@
+!function(e){var n=e("#home-banner-video")[0];setTimeout(function(){n.paused&&n.play()},1e3)}(jQuery);

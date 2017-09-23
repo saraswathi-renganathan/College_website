@@ -1,0 +1,1 @@
+!function(i){window.matchMedia("(max-width: 768px)").matches&&i("html").css({overflow:"auto",padding:"0",margin:"0","-webkit-tap-highlight-color":"rgba(0,0,0,0)"}),window.matchMedia("(min-width: 768px)").matches&&i("html").css({overflow:"hidden",padding:"0",margin:"0","-webkit-tap-highlight-color":"rgba(0,0,0,0)"})}(jQuery);
